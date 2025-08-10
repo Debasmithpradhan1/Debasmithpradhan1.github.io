@@ -13,4 +13,4 @@ JavaScript (DOM manipulation, basic interactivity)
 This portfolio is both a personal website and a demonstration of my coding abilities. It’s designed to be a quick snapshot for recruiters, collaborators, and anyone interested in my journey as a developer.
 
 🔗 Live Demo:
-View Portfolio# Main-portfolio
+[View Portfolio# Main-portfolio](https://debasmithpradhan1.github.io/)
